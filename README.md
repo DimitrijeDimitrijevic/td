@@ -12,3 +12,9 @@ number_of_rand_bytes = <some_number>
 Procs.chunk(number_of_tasks, number_of_rand_bytes)
 ```
 
+# Using processes 
+
+```elixir
+Procs.spinner/0
+```
+
